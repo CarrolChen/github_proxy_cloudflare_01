@@ -477,7 +477,7 @@ async function githubInterface() {
 			</style>
 		</head>
 		<body>
-			<a href="https://github.com/cmliu/CF-Workers-GitHub" target="_blank" class="github-corner" aria-label="View source on Github">
+			<a href="https://github.com/CarrolChen/github_proxy_cloudflare_01" target="_blank" class="github-corner" aria-label="View source on Github">
 				<svg viewBox="0 0 250 250" aria-hidden="true">
 					<path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path>
 					<path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path>
@@ -512,11 +512,11 @@ async function githubInterface() {
 
 				<div class="example">
 					<div class="example-title">📃 合法输入示例：</div>
-					<p>📄 分支源码：<span class="url-part">github.com/hunshcn/project/archive/master.zip</span></p>
-					<p>📁 release源码：<span class="url-part">github.com/hunshcn/project/archive/v0.1.0.tar.gz</span></p>
-					<p>📂 release文件：<span class="url-part">github.com/hunshcn/project/releases/download/v0.1.0/example.zip</span></p>
-					<p>💾 commit文件：<span class="url-part">github.com/hunshcn/project/blob/123/filename</span></p>
-					<p>🖨️ gist：<span class="url-part">gist.githubusercontent.com/cielpy/123/raw/cmd.py</span></p>
+					<p>📄 分支源码：<span class="url-part">github.com/CarrolChen/project/archive/master.zip</span></p>
+					<p>📁 release源码：<span class="url-part">github.com/CarrolChen/project/archive/v0.1.0.tar.gz</span></p>
+					<p>📂 release文件：<span class="url-part">github.com/CarrolChen/project/releases/download/v0.1.0/example.zip</span></p>
+					<p>💾 commit文件：<span class="url-part">github.com/CarrolChen/project/blob/123/filename</span></p>
+					<p>🖨️ gist：<span class="url-part">gist.githubusercontent.com/CarrolChen/123/raw/cmd.py</span></p>
 				</div>
 			</div>
 
